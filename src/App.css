@@ -1,0 +1,139 @@
+* {
+  box-sizing: border-box;
+}
+
+.bg-div-home {
+  background-image: url("data:image/svg+xml,%3Csvg width='590' height='968' viewBox='0 0 590 968' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cg filter='url(%23filter0_f_111_83)'%3E%3Cpath d='M-301.05 -166.825C-301.816 -168.115 -301.752 -169.495 -300.806 -171C-300.887 -169.61 -300.969 -168.218 -301.05 -166.825C-292.101 -151.756 -169.838 -148.994 -16.8625 -103.112C134.69 -57.6572 328.746 30.3551 371.599 179.064C458.699 481.312 515.603 617.087 296.694 646.013C134.913 667.39 147.796 873.823 -132.414 817.208C-316.483 780.017 -331 659.885 -331 508.467C-331 422.14 -316.634 99.7933 -301.05 -166.825Z' fill='%230058B4'/%3E%3C/g%3E%3Cdefs%3E%3Cfilter id='filter0_f_111_83' x='-471.8' y='-311.8' width='1061.6' height='1279.6' filterUnits='userSpaceOnUse' color-interpolation-filters='sRGB'%3E%3CfeFlood flood-opacity='0' result='BackgroundImageFix'/%3E%3CfeBlend mode='normal' in='SourceGraphic' in2='BackgroundImageFix' result='shape'/%3E%3CfeGaussianBlur stdDeviation='70.4' result='effect1_foregroundBlur_111_83'/%3E%3C/filter%3E%3C/defs%3E%3C/svg%3E%0A"),
+    url("data:image/svg+xml,%3Csvg width='492' height='993' viewBox='0 0 492 993' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cg filter='url(%23filter0_f_111_82)'%3E%3Cpath d='M1020.89 434.57C1022.16 434.398 1023.21 434.912 1024.05 436.166C1023 435.634 1021.95 435.102 1020.89 434.57C1006.12 436.581 962.212 532.295 874.287 637.799C787.181 742.322 652.469 866.143 522.21 850.055C257.461 817.356 132.459 816.72 184.74 633.966C223.378 498.904 58.4746 439.732 198.203 237.262C289.99 104.259 388.352 133.146 506.08 184.018C573.2 213.021 818.918 332.676 1020.89 434.57Z' fill='%23151515' fill-opacity='0.4'/%3E%3C/g%3E%3Cdefs%3E%3Cfilter id='filter0_f_111_82' x='0.141403' y='0.579147' width='1164.71' height='991.695' filterUnits='userSpaceOnUse' color-interpolation-filters='sRGB'%3E%3CfeFlood flood-opacity='0' result='BackgroundImageFix'/%3E%3CfeBlend mode='normal' in='SourceGraphic' in2='BackgroundImageFix' result='shape'/%3E%3CfeGaussianBlur stdDeviation='70.4' result='effect1_foregroundBlur_111_82'/%3E%3C/filter%3E%3C/defs%3E%3C/svg%3E%0A"),
+    url("data:image/svg+xml,%3Csvg width='492' height='993' viewBox='0 0 492 993' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cg filter='url(%23filter0_f_111_81)'%3E%3Cpath d='M1020.89 434.57C1022.16 434.398 1023.21 434.912 1024.05 436.166C1023 435.634 1021.95 435.102 1020.89 434.57C1006.12 436.581 962.212 532.295 874.287 637.799C787.181 742.322 652.469 866.143 522.21 850.055C257.461 817.356 132.459 816.72 184.74 633.966C223.378 498.904 58.4746 439.732 198.203 237.262C289.99 104.259 388.352 133.146 506.08 184.018C573.2 213.021 818.918 332.676 1020.89 434.57Z' fill='%230068D4'/%3E%3C/g%3E%3Cdefs%3E%3Cfilter id='filter0_f_111_81' x='0.141403' y='0.579147' width='1164.71' height='991.695' filterUnits='userSpaceOnUse' color-interpolation-filters='sRGB'%3E%3CfeFlood flood-opacity='0' result='BackgroundImageFix'/%3E%3CfeBlend mode='normal' in='SourceGraphic' in2='BackgroundImageFix' result='shape'/%3E%3CfeGaussianBlur stdDeviation='70.4' result='effect1_foregroundBlur_111_81'/%3E%3C/filter%3E%3C/defs%3E%3C/svg%3E%0A");
+  background-repeat: no-repeat, no-repeat, no-repeat;
+  background-position-x: left, right, right;
+  background-position-y: -150px, 600px, 600px;
+}
+
+.bg-div-signup {
+  background-image: url("data:image/svg+xml,%3Csvg width='832' height='388' viewBox='0 0 832 388' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cg filter='url(%23filter0_f_102_2)'%3E%3Cpath d='M428.832 -792.245C428.531 -793.715 429.044 -794.998 430.43 -796.11C429.898 -794.823 429.365 -793.535 428.832 -792.245C432.351 -775.076 546.965 -732.419 676.472 -638.96C804.774 -546.37 959.295 -399.649 951.074 -245.107C934.365 68.9958 943.656 215.92 727.349 171.545C567.491 138.751 512.044 338.015 265.838 192.738C104.105 97.3059 129.74 -20.9536 179.338 -164.019C207.615 -245.583 326.775 -545.44 428.832 -792.245Z' fill='%230068D4'/%3E%3C/g%3E%3Cdefs%3E%3Cfilter id='filter0_f_102_2' x='0.828659' y='-936.91' width='1091.36' height='1324.13' filterUnits='userSpaceOnUse' color-interpolation-filters='sRGB'%3E%3CfeFlood flood-opacity='0' result='BackgroundImageFix'/%3E%3CfeBlend mode='normal' in='SourceGraphic' in2='BackgroundImageFix' result='shape'/%3E%3CfeGaussianBlur stdDeviation='70.4' result='effect1_foregroundBlur_102_2'/%3E%3C/filter%3E%3C/defs%3E%3C/svg%3E%0A"),
+    url("data:image/svg+xml,%3Csvg width='787' height='377' viewBox='0 0 787 377' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cg filter='url(%23filter0_f_104_34)'%3E%3Cpath d='M-66.7592 974.388C-67.4939 975.431 -68.5862 975.851 -70.081 975.618C-68.9749 975.209 -67.8676 974.799 -66.7592 974.388C-58.1749 962.198 -98.3937 864.875 -115.817 728.647C-133.079 593.686 -132.068 410.716 -31.6063 326.255C172.58 154.59 258.145 63.4597 356.419 226.17C429.047 346.419 584.652 265.912 637.835 506.099C672.772 663.877 584.65 716.261 467.24 767.863C400.302 797.283 145.377 895.811 -66.7592 974.388Z' fill='%23151515' fill-opacity='0.4'/%3E%3C/g%3E%3Cdefs%3E%3Cfilter id='filter0_f_104_34' x='-265.046' y='0.227585' width='1051.41' height='1116.25' filterUnits='userSpaceOnUse' color-interpolation-filters='sRGB'%3E%3CfeFlood flood-opacity='0' result='BackgroundImageFix'/%3E%3CfeBlend mode='normal' in='SourceGraphic' in2='BackgroundImageFix' result='shape'/%3E%3CfeGaussianBlur stdDeviation='70.4' result='effect1_foregroundBlur_104_34'/%3E%3C/filter%3E%3C/defs%3E%3C/svg%3E%0A"),
+    url("data:image/svg+xml,%3Csvg width='787' height='377' viewBox='0 0 787 377' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cg filter='url(%23filter0_f_102_3)'%3E%3Cpath d='M-66.7592 974.388C-67.4939 975.431 -68.5862 975.851 -70.081 975.618C-68.9749 975.209 -67.8676 974.799 -66.7592 974.388C-58.1749 962.198 -98.3937 864.875 -115.817 728.647C-133.079 593.686 -132.068 410.716 -31.6063 326.255C172.58 154.59 258.145 63.4597 356.419 226.17C429.047 346.419 584.652 265.912 637.835 506.099C672.772 663.877 584.65 716.261 467.24 767.863C400.302 797.283 145.377 895.811 -66.7592 974.388Z' fill='%230068D4'/%3E%3C/g%3E%3Cdefs%3E%3Cfilter id='filter0_f_102_3' x='-265.046' y='0.227585' width='1051.41' height='1116.25' filterUnits='userSpaceOnUse' color-interpolation-filters='sRGB'%3E%3CfeFlood flood-opacity='0' result='BackgroundImageFix'/%3E%3CfeBlend mode='normal' in='SourceGraphic' in2='BackgroundImageFix' result='shape'/%3E%3CfeGaussianBlur stdDeviation='70.4' result='effect1_foregroundBlur_102_3'/%3E%3C/filter%3E%3C/defs%3E%3C/svg%3E%0A");
+  background-repeat: no-repeat, no-repeat, no-repeat;
+  background-position-x: right, left, left;
+  background-position-y: -150px, 600px, 600px;
+}
+
+/* Custom dark and thin scrollbar */
+html::-webkit-scrollbar {
+  width: 5px; /* Width of the scrollbar */
+}
+
+html::-webkit-scrollbar-track {
+  background: #1a1a1a; /* Dark background for the track */
+}
+
+html::-webkit-scrollbar-thumb {
+  background-color: #515151; /* Dark thumb (the scrolling handle) */
+  border-radius: 10px; /* Rounded edges for the thumb */
+}
+
+/* Custom dark and thin scrollbar */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 5px; /* Width of the scrollbar */
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #151515; /* Dark background for the track */
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background-color: #515151; /* Dark thumb (the scrolling handle) */
+  border-radius: 10px; /* Rounded edges for the thumb */
+}
+
+.message {
+  background-attachment: fixed;
+  position: relative;
+}
+
+.mine-message.last:before {
+  content: "";
+  position: absolute;
+  z-index: 0;
+  bottom: 0;
+  right: -8px;
+  height: 20px;
+  width: 20px;
+  background: #0068d4;
+  background-attachment: fixed;
+  border-bottom-left-radius: 15px;
+}
+
+.mine-message.last:after {
+  content: "";
+  position: absolute;
+  z-index: 1;
+  bottom: 0;
+  right: -10px;
+  width: 10px;
+  height: 20px;
+  background: #151515;
+  border-bottom-left-radius: 10px;
+}
+
+.your-message.last:before {
+  content: "";
+  position: absolute;
+  z-index: 0;
+  bottom: 0;
+  left: -7px;
+  height: 20px;
+  width: 20px;
+  background: #313131;
+  border-bottom-right-radius: 15px;
+}
+
+.your-message.last:after {
+  content: "";
+  position: absolute;
+  z-index: 1;
+  bottom: 0;
+  left: -10px;
+  width: 10px;
+  height: 20px;
+  background: #151515;
+  border-bottom-right-radius: 10px;
+}
+
+.loader {
+  width: 10px;
+  aspect-ratio: 1;
+  --c: no-repeat linear-gradient(#fff 0 0);
+  background: var(--c) 0% 50%, var(--c) 50% 50%, var(--c) 100% 50%;
+  background-size: 20% 100%;
+  animation: l1 1s infinite linear;
+}
+@keyframes l1 {
+  0% {
+    background-size: 20% 100%, 20% 100%, 20% 100%;
+  }
+  33% {
+    background-size: 20% 10%, 20% 100%, 20% 100%;
+  }
+  50% {
+    background-size: 20% 100%, 20% 10%, 20% 100%;
+  }
+  66% {
+    background-size: 20% 100%, 20% 100%, 20% 10%;
+  }
+  100% {
+    background-size: 20% 100%, 20% 100%, 20% 100%;
+  }
+}
+
+.highlight-mine {
+  transform: scale(1.3);
+  transform-origin: right;
+}
+
+.highlight-your {
+  transform: scale(1.3);
+  transform-origin: left;
+}
